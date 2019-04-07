@@ -57,3 +57,4 @@ $ heroku buildpacks:add https://github.com/jasonswett/heroku-buildpack-nodejs
 $ heroku buildpacks:add heroku/ruby
 $ git push heroku master
 ```
+# demo-home-library-seed
